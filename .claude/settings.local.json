@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Read(//c/LabCibeAlertas/labcibe-reports-fe/**)",
+      "Bash(npm install -D tailwindcss postcss autoprefixer @tailwindcss/typography tailwindcss-animate lucide-react)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
